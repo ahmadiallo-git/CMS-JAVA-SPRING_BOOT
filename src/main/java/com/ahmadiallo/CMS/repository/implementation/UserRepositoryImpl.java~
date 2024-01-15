@@ -1,0 +1,7 @@
+package com.ahmadiallo.CMS.repository.implementation;
+
+import com.ahmadiallo.CMS.model.User;
+import com.ahmadiallo.CMS.repository.UserRepository;
+
+public class UserRepositoryImpl implements UserRepository<User>{
+}
